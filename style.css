@@ -15,6 +15,10 @@ body{
     font-size: 1.6rem;
 }
 
+.example-class {
+    color: #ffffff;
+}
+
 .hero-shadow{
     position: absolute;
     top: 0;
