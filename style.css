@@ -28,6 +28,13 @@ body {
     color: rgb(255,102,0);
 }
 
+.scroll-fix::before {
+    display: block;
+    margin-top: -3rem;
+    height: 3rem;
+    content: '';
+}
+
 /* NAWIGACJA */
 .navbar-brand {
     font-size: 2.2rem;  
