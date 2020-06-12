@@ -11,6 +11,7 @@ html {
  /* przeglądarka ma domyślmy fs:16px, teraz ustawiamy fs=10px px bo 16x0,625=10. Będziemy uzywać jednostek rem, uzywajac ich (lub %) czciaka na urzadzeniach mobilnych dostosuje sie automatucznie  */
 
 body {
+    position: relative;
     font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
 }
